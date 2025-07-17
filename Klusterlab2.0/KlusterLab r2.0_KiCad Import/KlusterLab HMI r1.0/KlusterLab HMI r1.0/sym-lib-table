@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "KlusterLab HMI r1.0-altium-import")(type "KiCad")(uri "${KIPRJMOD}/KlusterLab HMI r1.0-altium-import.kicad_sym")(options "")(descr ""))
+)

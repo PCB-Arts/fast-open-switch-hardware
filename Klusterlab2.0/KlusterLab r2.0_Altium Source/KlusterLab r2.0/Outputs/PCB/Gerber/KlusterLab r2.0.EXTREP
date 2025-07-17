@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: KlusterLab r2.0.GBR   22.05.2025  21:13:44
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1 Top                                  
+.G1                 L2 Inner1 (GND)                         
+.G2                 L3 Inner2 (Sig)                         
+.G3                 L4 Inner3 (GND)                         
+.G4                 L5 Inner4 (PWR)                         
+.G5                 L6 Inner5 (PWR)                         
+.G6                 L7 Inner6 (PWR)                         
+.G7                 L8 Inner7 (PWR)                         
+.G8                 L9 Inner8 (GND)                         
+.G9                 L10 Inner9 (Sig)                        
+.G10                L11 Inner10 (GND)                       
+.GBL                L12 Bottom                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Outline                                 
+.GM29               Top Assembly                            
+.GM30               Bottom Assembly                         
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\abreh\PCB Arts GmbH\PCB Arts - Cloud\20_Externe Projekte\FPGA Switch 2\01 RD Elektronik\04 Leiterplatten\KlusterLab HMI r1.0\PCB\KlusterLab HMI r1.0.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.92

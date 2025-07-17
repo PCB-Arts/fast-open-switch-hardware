@@ -1,0 +1,9 @@
+(sym_lib_table
+  (lib (name "DDR3 Memory_Banks 32-33-34-altium-import")(type "KiCad")(uri "${KIPRJMOD}/DDR3 Memory_Banks 32-33-34-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "DDR3 Memory_SO-DIMM-altium-import")(type "KiCad")(uri "${KIPRJMOD}/DDR3 Memory_SO-DIMM-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "FPGA Supply Pins-altium-import")(type "KiCad")(uri "${KIPRJMOD}/FPGA Supply Pins-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "FPGA_HDMI_IN_OUT-altium-import")(type "KiCad")(uri "${KIPRJMOD}/FPGA_HDMI_IN_OUT-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "HMI-altium-import")(type "KiCad")(uri "${KIPRJMOD}/HMI-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "I2C Multiplexer-altium-import")(type "KiCad")(uri "${KIPRJMOD}/I2C Multiplexer-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Memory-QSPI_Flash-eMMC-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Memory-QSPI_Flash-eMMC-altium-import.kicad_sym")(options "")(descr ""))
+)

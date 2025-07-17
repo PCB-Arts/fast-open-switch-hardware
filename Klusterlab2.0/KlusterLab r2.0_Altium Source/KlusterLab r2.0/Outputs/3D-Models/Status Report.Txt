@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 19:49:25 On 21.05.2025
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [Standard] of PCB Document [KlusterLab r2.0.PcbDoc]
+   Generated File[KlusterLab r2.0(Standard).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:53:52 On 21.05.2025

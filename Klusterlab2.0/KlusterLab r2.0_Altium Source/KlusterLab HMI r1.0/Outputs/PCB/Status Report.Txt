@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [KlusterLab HMI r1.0.PcbDoc]
+   Generated File[KlusterLab HMI r1.0-Plated.TXT]
+   Generated File[KlusterLab HMI r1.0-NonPlated.TXT]
+   Generated File[KlusterLab HMI r1.0.DRL]
+   Generated File[KlusterLab HMI r1.0.LDP]
+   Generated File[KlusterLab HMI r1.0.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 20:37:04 On 13.06.2025

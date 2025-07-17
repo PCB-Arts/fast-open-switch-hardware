@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\abreh\PCB Arts GmbH\PCB Arts - Cloud\20_Externe Projekte\FPGA Switch 2\01 RD Elektronik\04 Leiterplatten\KlusterLab HMI r1.0\PCB\KlusterLab HMI r1.0.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=klusterlab hmi r1.0-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=klusterlab hmi r1.0-nonplated.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,15 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [KlusterLab r2.0.PcbDoc]
+   Generated File[KlusterLab r2.0-RoundHoles-Plated.TXT]
+   Generated File[KlusterLab r2.0-RoundHoles-NonPlated.TXT]
+   Generated File[KlusterLab r2.0-SlotHoles-Plated.TXT]
+   Generated File[KlusterLab r2.0.DRL]
+   Generated File[KlusterLab r2.0.LDP]
+   Generated File[KlusterLab r2.0.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 21:14:09 On 22.05.2025

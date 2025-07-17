@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+
+========================================================================================================================
+File Design Information:
+
+Date:       13.06.25
+Time:       21:03
+Revision:   Not in VersionControl
+Variant:    Standard
+Units used: mm
+
+Designator Comment                                                                       Layer       Footprint             Center-X(mm) Center-Y(mm) Rotation Description                                             "Order Code #1" "Order Code #2" "Manufacturer 1"   "Manufacturer 1 Prt. Nr." "Manufacturer 2" "Manufacturer 2 Prt. Nr." 
+S1         "AlpsAlpine SKRHACE010"                                                       TopLayer    AlpsAlpine_SKRHACE010 55.4300      7.5000       315      "Multi-Directional Switches, 4-directions, center-push" ""              ""              "Alps Alpine"      SKRHACE010                ""               ""                        
+R5         "1k 1%"                                                                       TopLayer    RES_0402_L            51.2793      2.8293       45       "Thick Film Resistors - SMD 1kOhm 1%"                   ""              ""              "Vishay / Dale"    CRCW04021K00FKEDC         Yageo            RC0402FR-7W1KL            
+R4         "1k 1%"                                                                       TopLayer    RES_0402_L            52.5814      1.5373       45       "Thick Film Resistors - SMD 1kOhm 1%"                   ""              ""              "Vishay / Dale"    CRCW04021K00FKEDC         Yageo            RC0402FR-7W1KL            
+R3         "1k 1%"                                                                       TopLayer    RES_0402_L            59.9500      4.3500       45       "Thick Film Resistors - SMD 1kOhm 1%"                   ""              ""              "Vishay / Dale"    CRCW04021K00FKEDC         Yageo            RC0402FR-7W1KL            
+R2         "1k 1%"                                                                       TopLayer    RES_0402_L            50.3000      10.1000      45       "Thick Film Resistors - SMD 1kOhm 1%"                   ""              ""              "Vishay / Dale"    CRCW04021K00FKEDC         Yageo            RC0402FR-7W1KL            
+R1         "1k 1%"                                                                       TopLayer    RES_0402_L            52.4000      12.0500      45       "Thick Film Resistors - SMD 1kOhm 1%"                   ""              ""              "Vishay / Dale"    CRCW04021K00FKEDC         Yageo            RC0402FR-7W1KL            
+M2         9774050360R                                                                   TopLayer    9774050360R           5.0000       7.5000       0        "Würth Standoff M3 h:5mm 9774050360R"                   ""              ""              "Würth Elektronik" 9774050360R               ""               ""                        
+M1         9774050360R                                                                   TopLayer    9774050360R           65.0000      7.5000       0        "Würth Standoff M3 h:5mm 9774050360R"                   ""              ""              "Würth Elektronik" 9774050360R               ""               ""                        
+J2         "WE / WR-PHD / 61300411121 / PinHeader / 1x4 Pin / RM2.54 / Top Entry / Male" TopLayer    WE_61300411121        47.1400      7.5000       270      "WR-PHD Pin Header"                                     61300411121     ""              ""                 ""                        ""               ""                        
+J1         "Pinheader, 10 Pin, THT, Straight"                                            BottomLayer 62701021621           17.5000      7.5000       270      "Box Pin header THT 1.27mm 10Pol Straight"              ""              ""              "Würth Elektronik" 62701021621               ""               ""                        

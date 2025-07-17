@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: KlusterLab HMI r1.0.PcbDoc   13.06.2025  20:37:03
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : KlusterLab HMI r1.0-Plated.TXT
+ASCII Non-Plated RoundHoles File : KlusterLab HMI r1.0-NonPlated.TXT
+EIA File   : KlusterLab HMI r1.0.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             190       PTH        383.79mm (15.11inch)
+T2      0.7mm (28mil)                                             Round             10        PTH        15.24mm (0.60inch)
+T3      1.1mm (43mil)                                             Round             4         PTH        7.62mm (0.30inch)
+T4      4.4mm (173mil)                                            Round             2         PTH        60.00mm (2.36inch)
+T5      0.75mm (30mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+T6      1.05mm (41mil)                                            Round             1         NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              208
+
+Total Processing Time (hh:mm:ss) : 00:00:00

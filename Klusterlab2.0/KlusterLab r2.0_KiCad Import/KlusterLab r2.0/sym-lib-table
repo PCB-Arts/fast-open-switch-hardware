@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "KlusterLab r2.0-altium-import")(type "KiCad")(uri "${KIPRJMOD}/KlusterLab r2.0-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Bank 0_Bank 14-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Bank 0_Bank 14-altium-import.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: C:\Users\abreh\PCB Arts GmbH\PCB Arts - Cloud\20_Externe Projekte\FPGA Switch 2\01 RD Elektronik\04 Leiterplatten\KlusterLab r2.0\PCB\KlusterLab r2.0.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_Polygons_Diff|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_Polygon|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_ETH-ISO|Scope=Board|Minimum=78.74
+RuleKind=Clearance|RuleName=Clearance_Polygons_L10|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_CM4_GBE_ISO|Scope=Board|Minimum=39.37
+RuleKind=Width|RuleName=Width_SE40|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance_Polygons_L3|Scope=Board|Minimum=11.81
